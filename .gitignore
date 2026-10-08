@@ -22,4 +22,4 @@ clase2/*.ckpt
 clase2/*.keras
 clase2/*.h5
 clase2/lightning_logs/
-clase2/resultados_regression/
+clase2/resultados_regresion/
