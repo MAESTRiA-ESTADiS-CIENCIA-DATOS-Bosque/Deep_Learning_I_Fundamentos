@@ -17,3 +17,9 @@ __pycache__/
 
 clase1/*.qmd
 clase1/*.html
+clase2/*.pt
+clase2/*.ckpt
+clase2/*.keras
+clase2/*.h5
+clase2/lightning_logs/
+clase2/resultados_regression/
