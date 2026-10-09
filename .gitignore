@@ -23,3 +23,6 @@ clase2/*.keras
 clase2/*.h5
 clase2/lightning_logs/
 clase2/resultados_regresion/
+clase2/timeseries_keras_jax/
+clase2/timeseries_lightning/
+clase2/mnist_artifacts
