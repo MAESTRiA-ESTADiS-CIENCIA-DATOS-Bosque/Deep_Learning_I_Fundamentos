@@ -27,4 +27,8 @@ clase2/timeseries_keras_jax/
 clase2/timeseries_lightning/
 clase2/mnist_artifacts
 clase3/resultados_clase7_cnn
+clase3/tuning_results
+clase3/data
+clase3/lightning_logs
+
 
