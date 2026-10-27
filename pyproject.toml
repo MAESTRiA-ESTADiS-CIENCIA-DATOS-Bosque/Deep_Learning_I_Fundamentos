@@ -14,6 +14,7 @@ dependencies = [
     "optuna>=5.0.0",
     "optuna-integration[pytorch-lightning]>=5.0.0",
     "pandas>=3.0.6",
+    "pydub>=0.25.1",
     "scikit-learn>=1.9.1",
     "shap>=0.54.1",
     "tensorflow>=2.21.0",
